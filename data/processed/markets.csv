@@ -1,0 +1,667 @@
+state,district,market,records
+Madhya Pradesh,Alirajpur,Alirajpur,153
+Madhya Pradesh,Alirajpur,Alirajpur(F&V),207
+Madhya Pradesh,Alirajpur,Jobat,138
+Madhya Pradesh,Anupur,Anuppur,55
+Madhya Pradesh,Anupur,Jaithari,21
+Madhya Pradesh,Anupur,Kotma,9
+Madhya Pradesh,Balaghat,Balaghat,1
+Madhya Pradesh,Balaghat,Katangi,1
+Madhya Pradesh,Balaghat,Lalbarra,2
+Madhya Pradesh,Balaghat,Mohgaon,63
+Madhya Pradesh,Balaghat,Praswada,9
+Madhya Pradesh,Betul,Betul,139
+Madhya Pradesh,Betul,Bhensdehi,9
+Madhya Pradesh,Betul,Multai,151
+Madhya Pradesh,Bhind,Alampur,121
+Madhya Pradesh,Bhind,Bhind,125
+Madhya Pradesh,Bhind,Gohad,34
+Madhya Pradesh,Bhind,Lahar,47
+Madhya Pradesh,Bhind,Mehgaon,40
+Madhya Pradesh,Bhind,Mow,79
+Madhya Pradesh,Bhopal,Berasia,201
+Madhya Pradesh,Bhopal,Bhopal,562
+Madhya Pradesh,Bhopal,Bhopal(F&V),477
+Madhya Pradesh,Burhanpur,Burhanpur,103
+Madhya Pradesh,Chhatarpur,Badamalhera,209
+Madhya Pradesh,Chhatarpur,Bakswaha,49
+Madhya Pradesh,Chhatarpur,Bijawar,131
+Madhya Pradesh,Chhatarpur,Chhatarpur,130
+Madhya Pradesh,Chhatarpur,Harpalpur,78
+Madhya Pradesh,Chhatarpur,LavKush Nagar(Laundi),22
+Madhya Pradesh,Chhatarpur,Naugaon,130
+Madhya Pradesh,Chhatarpur,Rajnagar,163
+Madhya Pradesh,Chhindwara,Amarwda,42
+Madhya Pradesh,Chhindwara,Chaurai,108
+Madhya Pradesh,Chhindwara,Chhindwara,181
+Madhya Pradesh,Chhindwara,Chhindwara(F&V),357
+Madhya Pradesh,Chhindwara,Chindwara(F&V),33
+Madhya Pradesh,Chhindwara,Pandhurna,16
+Madhya Pradesh,Chhindwara,Saunsar,14
+Madhya Pradesh,Damoh,Damoh,50
+Madhya Pradesh,Damoh,Damoh(F&V),121
+Madhya Pradesh,Damoh,Hata,8
+Madhya Pradesh,Damoh,Javera,126
+Madhya Pradesh,Damoh,Patharia,123
+Madhya Pradesh,Datia,Bhander,102
+Madhya Pradesh,Datia,Datia,142
+Madhya Pradesh,Datia,Sevda,150
+Madhya Pradesh,Dewas,Bagli,65
+Madhya Pradesh,Dewas,Dewas,184
+Madhya Pradesh,Dewas,Dewas(F&V),510
+Madhya Pradesh,Dewas,Haatpipliya,309
+Madhya Pradesh,Dewas,Kannod,88
+Madhya Pradesh,Dewas,Khategaon,171
+Madhya Pradesh,Dewas,Loharda,154
+Madhya Pradesh,Dewas,Sonkachh(F&V),15
+Madhya Pradesh,Dewas,Sonkatch,222
+Madhya Pradesh,Dhar,Badnawar,576
+Madhya Pradesh,Dhar,Badnawar(F&V),180
+Madhya Pradesh,Dhar,Dhamnod,494
+Madhya Pradesh,Dhar,Dhamnod(F&V),256
+Madhya Pradesh,Dhar,Dhar,199
+Madhya Pradesh,Dhar,Dhar(F&V),150
+Madhya Pradesh,Dhar,Gandhwani,146
+Madhya Pradesh,Dhar,Kukshi,455
+Madhya Pradesh,Dhar,Manawar,490
+Madhya Pradesh,Dhar,Manawar(F&V),373
+Madhya Pradesh,Dhar,Rajgarh,395
+Madhya Pradesh,Dhar,Rajgarh(F&V),2
+Madhya Pradesh,Dindori,Dindori,142
+Madhya Pradesh,Dindori,Gorakhpur,71
+Madhya Pradesh,Dindori,Shahpura,91
+Madhya Pradesh,Guna,Aron,96
+Madhya Pradesh,Guna,Binaganj,99
+Madhya Pradesh,Guna,Guna,88
+Madhya Pradesh,Guna,Guna(F&V),78
+Madhya Pradesh,Guna,Kumbhraj,124
+Madhya Pradesh,Guna,Maksudangarh,175
+Madhya Pradesh,Guna,Raghogarh,49
+Madhya Pradesh,Gwalior,Bhitarwar,22
+Madhya Pradesh,Gwalior,Dabra,128
+Madhya Pradesh,Gwalior,Lashkar,219
+Madhya Pradesh,Gwalior,Lashkar(F&V),472
+Madhya Pradesh,Harda,Harda,161
+Madhya Pradesh,Harda,Harda(F&V),382
+Madhya Pradesh,Harda,Khirakiya,159
+Madhya Pradesh,Harda,Sirali,128
+Madhya Pradesh,Harda,Timarni,400
+Madhya Pradesh,Harda,Timarni(F&V),128
+Madhya Pradesh,Hoshangabad,Babai,37
+Madhya Pradesh,Hoshangabad,Banapura,127
+Madhya Pradesh,Hoshangabad,Bankhedi,116
+Madhya Pradesh,Hoshangabad,Hoshangabad,357
+Madhya Pradesh,Hoshangabad,Hoshangabad(F&V),258
+Madhya Pradesh,Hoshangabad,Itarsi,121
+Madhya Pradesh,Hoshangabad,Pipariya,521
+Madhya Pradesh,Hoshangabad,Pipariya(F&V),277
+Madhya Pradesh,Hoshangabad,Semriharchand,132
+Madhya Pradesh,Indore,Gautampura,318
+Madhya Pradesh,Indore,Indore,1541
+Madhya Pradesh,Indore,Indore(F&V),388
+Madhya Pradesh,Indore,Mhow,498
+Madhya Pradesh,Indore,Mhow(F&V),360
+Madhya Pradesh,Indore,Sanwer,492
+Madhya Pradesh,Jabalpur,Jabalpur,158
+Madhya Pradesh,Jabalpur,Jabalpur(F&V),500
+Madhya Pradesh,Jabalpur,Paatan,164
+Madhya Pradesh,Jabalpur,Sehora,38
+Madhya Pradesh,Jabalpur,Shahpura Bhitoni (F&V),4
+Madhya Pradesh,Jabalpur,Shahpura(Jabalpur),104
+Madhya Pradesh,Jabalpur,Sihora,102
+Madhya Pradesh,Jabalpur,Sihora(F&V),1
+Madhya Pradesh,Jhabua,Jhabua,91
+Madhya Pradesh,Jhabua,Petlawad,603
+Madhya Pradesh,Jhabua,Petlawad(F&V),315
+Madhya Pradesh,Jhabua,Thandla,505
+Madhya Pradesh,Katni,Katni,246
+Madhya Pradesh,Katni,Katni(F&V),261
+Madhya Pradesh,Khandwa,Badwah(F&V),55
+Madhya Pradesh,Khandwa,Harsood,145
+Madhya Pradesh,Khandwa,Khandwa,552
+Madhya Pradesh,Khandwa,Khandwa(F&V),335
+Madhya Pradesh,Khandwa,Pandhana,146
+Madhya Pradesh,Khandwa,Pandhana(F&V),48
+Madhya Pradesh,Khandwa,Sanawad(F&V),99
+Madhya Pradesh,Khargone,Badwaha,595
+Madhya Pradesh,Khargone,Bhikangaon,188
+Madhya Pradesh,Khargone,Karhi,150
+Madhya Pradesh,Khargone,Kasrawad,309
+Madhya Pradesh,Khargone,Khargone,487
+Madhya Pradesh,Khargone,Sanawad,437
+Madhya Pradesh,Khargone,Segaon,12
+Madhya Pradesh,Mandla,Bichhiya,80
+Madhya Pradesh,Mandla,Mandla,130
+Madhya Pradesh,Mandla,Nainpur,66
+Madhya Pradesh,Mandsaur,Bhanpura,112
+Madhya Pradesh,Mandsaur,Daloda,118
+Madhya Pradesh,Mandsaur,Garoth,88
+Madhya Pradesh,Mandsaur,Mandsaur,681
+Madhya Pradesh,Mandsaur,Mandsaur(F&V),183
+Madhya Pradesh,Mandsaur,Piplya,85
+Madhya Pradesh,Mandsaur,Shamgarh,331
+Madhya Pradesh,Mandsaur,Shamgarh(F&V),119
+Madhya Pradesh,Mandsaur,Sitamau(F&V),25
+Madhya Pradesh,Mandsaur,Sitmau,215
+Madhya Pradesh,Mandsaur,Suvasra,87
+Madhya Pradesh,Morena,Ambaha,40
+Madhya Pradesh,Morena,Banmorkalan,59
+Madhya Pradesh,Morena,Jora,27
+Madhya Pradesh,Morena,Kailaras,106
+Madhya Pradesh,Morena,Morena,501
+Madhya Pradesh,Morena,Morena(F&V),35
+Madhya Pradesh,Morena,Porsa,428
+Madhya Pradesh,Morena,Porsa(F&V),119
+Madhya Pradesh,Morena,Sabalgarh,146
+Madhya Pradesh,Morena,Sabalgarh(F&V),261
+Madhya Pradesh,Narsinghpur,Gadarwada,71
+Madhya Pradesh,Narsinghpur,Gotegaon,140
+Madhya Pradesh,Narsinghpur,Kareli,135
+Madhya Pradesh,Narsinghpur,Narsinghpur,102
+Madhya Pradesh,Narsinghpur,Tendukheda,9
+Madhya Pradesh,Neemuch,Javad,20
+Madhya Pradesh,Neemuch,Manasa,186
+Madhya Pradesh,Neemuch,Neemuch,635
+Madhya Pradesh,Panna,Ajaygarh,154
+Madhya Pradesh,Panna,Devandranagar,77
+Madhya Pradesh,Panna,Panna,174
+Madhya Pradesh,Panna,Pawai,141
+Madhya Pradesh,Panna,Simariya,117
+Madhya Pradesh,Raisen,Bareli,159
+Madhya Pradesh,Raisen,Begamganj,110
+Madhya Pradesh,Raisen,Gairatganj,120
+Madhya Pradesh,Raisen,Obedullaganj,181
+Madhya Pradesh,Raisen,Raisen,96
+Madhya Pradesh,Raisen,Silvani,118
+Madhya Pradesh,Raisen,Udaipura,122
+Madhya Pradesh,Rajgarh,Biaora,419
+Madhya Pradesh,Rajgarh,Chhapiheda,64
+Madhya Pradesh,Rajgarh,Jeerapur,119
+Madhya Pradesh,Rajgarh,Khilchipur,121
+Madhya Pradesh,Rajgarh,Khujner,116
+Madhya Pradesh,Rajgarh,Kurawar,147
+Madhya Pradesh,Rajgarh,Narsinghgarh,655
+Madhya Pradesh,Rajgarh,Pachaur,139
+Madhya Pradesh,Rajgarh,Sarangpur,309
+Madhya Pradesh,Rajgarh,Suthalia,71
+Madhya Pradesh,Ratlam,A lot,183
+Madhya Pradesh,Ratlam,Alot(F&V),9
+Madhya Pradesh,Ratlam,Jaora,427
+Madhya Pradesh,Ratlam,Ratlam,659
+Madhya Pradesh,Ratlam,Ratlam(F&V),136
+Madhya Pradesh,Ratlam,Sailana,642
+Madhya Pradesh,Ratlam,Sailana(F&V),108
+Madhya Pradesh,Ratlam,Taal,66
+Madhya Pradesh,Rewa,Baikunthpur,189
+Madhya Pradesh,Rewa,Chaakghat,172
+Madhya Pradesh,Rewa,Hanumana,149
+Madhya Pradesh,Rewa,Rewa,139
+Madhya Pradesh,Rewa,Rewa(F&V),101
+Madhya Pradesh,Sagar,Bamora,80
+Madhya Pradesh,Sagar,Banda,100
+Madhya Pradesh,Sagar,Bina,260
+Madhya Pradesh,Sagar,Deori,424
+Madhya Pradesh,Sagar,Devri(F&V),23
+Madhya Pradesh,Sagar,Garhakota,228
+Madhya Pradesh,Sagar,Jaisinagar,91
+Madhya Pradesh,Sagar,Kesli,123
+Madhya Pradesh,Sagar,Khurai,133
+Madhya Pradesh,Sagar,Khurai(F&V),250
+Madhya Pradesh,Sagar,Malthone,105
+Madhya Pradesh,Sagar,Rahatgarh,127
+Madhya Pradesh,Sagar,Rehli,106
+Madhya Pradesh,Sagar,Sagar,284
+Madhya Pradesh,Sagar,Sagar(F&V),486
+Madhya Pradesh,Sagar,Shahagarh,206
+Madhya Pradesh,Satna,Amarpatan,187
+Madhya Pradesh,Satna,Mehar,159
+Madhya Pradesh,Satna,Nagod,161
+Madhya Pradesh,Satna,Ramnagar,146
+Madhya Pradesh,Satna,Satna,166
+Madhya Pradesh,Satna,Satna(F&V),18
+Madhya Pradesh,Seoni,Barghat,8
+Madhya Pradesh,Seoni,Chhpara,117
+Madhya Pradesh,Seoni,Ghansour,33
+Madhya Pradesh,Seoni,Keolari,39
+Madhya Pradesh,Seoni,Lakhnadon,44
+Madhya Pradesh,Seoni,Palari,1
+Madhya Pradesh,Seoni,Seoni,462
+Madhya Pradesh,Shajapur,Agar,382
+Madhya Pradesh,Shajapur,Akodiya,264
+Madhya Pradesh,Shajapur,Akodiya(F&V),4
+Madhya Pradesh,Shajapur,Badod,47
+Madhya Pradesh,Shajapur,Berachha,14
+Madhya Pradesh,Shajapur,Kalapipal,937
+Madhya Pradesh,Shajapur,Kalapipal(F&V),221
+Madhya Pradesh,Shajapur,Maksi,1
+Madhya Pradesh,Shajapur,Momanbadodiya,61
+Madhya Pradesh,Shajapur,Nalkehda,132
+Madhya Pradesh,Shajapur,Shajapur,1073
+Madhya Pradesh,Shajapur,Shajapur(F&V),159
+Madhya Pradesh,Shajapur,Shujalpur,533
+Madhya Pradesh,Shajapur,Shujalpur(F&V),96
+Madhya Pradesh,Shajapur,Soyatkalan,244
+Madhya Pradesh,Shajapur,Susner,117
+Madhya Pradesh,Sheopur,Sheopurbadod,132
+Madhya Pradesh,Sheopur,Sheopurkalan,134
+Madhya Pradesh,Sheopur,Sheopurkalan(F&V),89
+Madhya Pradesh,Sheopur,Syopurkalan(F&V),77
+Madhya Pradesh,Sheopur,Vijaypur,25
+Madhya Pradesh,Shivpuri,Badarwas,2
+Madhya Pradesh,Shivpuri,Barad,77
+Madhya Pradesh,Shivpuri,Karera,90
+Madhya Pradesh,Shivpuri,Khaniadhana,155
+Madhya Pradesh,Shivpuri,Khatora,79
+Madhya Pradesh,Shivpuri,Kolaras,105
+Madhya Pradesh,Shivpuri,Kolaras(F&V),6
+Madhya Pradesh,Shivpuri,Magroni,45
+Madhya Pradesh,Shivpuri,Pichhour,97
+Madhya Pradesh,Shivpuri,Pohari,113
+Madhya Pradesh,Shivpuri,Rannod,8
+Madhya Pradesh,Shivpuri,Shivpuri,193
+Madhya Pradesh,Shivpuri,Shivpuri(F&V),161
+Madhya Pradesh,Sidhi,Sidhi,197
+Madhya Pradesh,Tikamgarh,Jatara,311
+Madhya Pradesh,Tikamgarh,Khargapur,130
+Madhya Pradesh,Tikamgarh,Niwadi,184
+Madhya Pradesh,Tikamgarh,Palera,144
+Madhya Pradesh,Tikamgarh,Prithvipur,172
+Madhya Pradesh,Tikamgarh,Tikamgarh,168
+Madhya Pradesh,Ujjain,Badnagar,480
+Madhya Pradesh,Ujjain,Khachrod,111
+Madhya Pradesh,Ujjain,Mahidpur,99
+Madhya Pradesh,Ujjain,Mahidpur(F&V),9
+Madhya Pradesh,Ujjain,Nagda,120
+Madhya Pradesh,Ujjain,Tarana,119
+Madhya Pradesh,Ujjain,Ujjain,1136
+Madhya Pradesh,Ujjain,Ujjain(F&V),207
+Madhya Pradesh,Ujjain,Unhel,56
+Madhya Pradesh,Vidisha,Ganjbasoda,171
+Madhya Pradesh,Vidisha,Gulabganj,11
+Madhya Pradesh,Vidisha,Kurwai,14
+Madhya Pradesh,Vidisha,Lateri,218
+Madhya Pradesh,Vidisha,Shamshabad,98
+Madhya Pradesh,Vidisha,Sironj,156
+Madhya Pradesh,Vidisha,Vidisha,252
+Maharashtra,Ahmednagar,Ahmednagar,565
+Maharashtra,Ahmednagar,Akole,146
+Maharashtra,Ahmednagar,Jamkhed,342
+Maharashtra,Ahmednagar,Karjat,191
+Maharashtra,Ahmednagar,Kopargaon,672
+Maharashtra,Ahmednagar,Newasa,14
+Maharashtra,Ahmednagar,Newasa(Ghodegaon),241
+Maharashtra,Ahmednagar,Om Chaitanya Multistate Agro Purpose CoOp Society,231
+Maharashtra,Ahmednagar,Parner,252
+Maharashtra,Ahmednagar,Pathardi,258
+Maharashtra,Ahmednagar,Rahata,1070
+Maharashtra,Ahmednagar,Rahuri,721
+Maharashtra,Ahmednagar,Rahuri(Songaon),17
+Maharashtra,Ahmednagar,Rahuri(Vambori),410
+Maharashtra,Ahmednagar,Sangamner,550
+Maharashtra,Ahmednagar,Shevgaon,598
+Maharashtra,Ahmednagar,Shevgaon(Bodhegaon),158
+Maharashtra,Ahmednagar,Shree Sairaj Krushi Market,86
+Maharashtra,Ahmednagar,Shrigonda,128
+Maharashtra,Ahmednagar,Shrigonda(Gogargaon),17
+Maharashtra,Ahmednagar,Shrirampur,936
+Maharashtra,Ahmednagar,Shrirampur(Belapur),65
+Maharashtra,Akola,Akola,1194
+Maharashtra,Akola,Akot,10
+Maharashtra,Akola,Balapur,13
+Maharashtra,Akola,Murtizapur,59
+Maharashtra,Akola,Patur,29
+Maharashtra,Akola,Telhara,67
+Maharashtra,Amarawati,Achalpur,81
+Maharashtra,Amarawati,Amarawati,279
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),1180
+Maharashtra,Amarawati,Anajngaon,54
+Maharashtra,Amarawati,Chandur Bazar,106
+Maharashtra,Amarawati,Chandur Railway,7
+Maharashtra,Amarawati,Daryapur,2
+Maharashtra,Amarawati,Dhamngaon-Railway,51
+Maharashtra,Amarawati,Dharni,5
+Maharashtra,Amarawati,Morshi,62
+Maharashtra,Amarawati,Nandgaon Khandeshwar,17
+Maharashtra,Amarawati,Varud,2
+Maharashtra,Amarawati,Varud(Rajura Bazar),5
+Maharashtra,Aurangabad,Amba,6
+Maharashtra,Aurangabad,Aurangabad,1
+Maharashtra,Beed,Beed,77
+Maharashtra,Beed,Gevrai,158
+Maharashtra,Beed,Kada,137
+Maharashtra,Beed,Kaij,40
+Maharashtra,Beed,Kille Dharur,48
+Maharashtra,Beed,Majalgaon,126
+Maharashtra,Beed,Parali Vaijyanath,7
+Maharashtra,Beed,Vadvani,1
+Maharashtra,Bhandara,Bhandara,62
+Maharashtra,Bhandara,Tumsar,66
+Maharashtra,Chandrapur,Chandrapur,3
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),679
+Maharashtra,Dhule,Dhule,524
+Maharashtra,Dhule,Dondaicha,151
+Maharashtra,Dhule,Dondaicha(Sindhkheda),31
+Maharashtra,Dhule,Pratap Nana Mahale Khajgi Bajar Samiti,41
+Maharashtra,Dhule,Sakri,280
+Maharashtra,Dhule,Shirpur,234
+Maharashtra,Hingoli,Akhadabalapur,7
+Maharashtra,Hingoli,Hingoli,72
+Maharashtra,Hingoli,Hingoli(Kanegoan Naka),14
+Maharashtra,Jalgaon,Amalner,175
+Maharashtra,Jalgaon,Bhusaval,1014
+Maharashtra,Jalgaon,Chalisgaon,114
+Maharashtra,Jalgaon,Chopada,74
+Maharashtra,Jalgaon,Dharangaon,24
+Maharashtra,Jalgaon,Jalgaon,1062
+Maharashtra,Jalgaon,Jalgaon(Masawat),4
+Maharashtra,Jalgaon,Pachora,91
+Maharashtra,Jalgaon,Parola,45
+Maharashtra,Jalgaon,Raver,93
+Maharashtra,Jalgaon,Raver(Sauda),1
+Maharashtra,Jalgaon,Yawal,145
+Maharashtra,Kolhapur,Kolhapur,556
+Maharashtra,Kolhapur,Vadgaonpeth,304
+Maharashtra,Latur,Ahmedpur,18
+Maharashtra,Latur,Aurad Shahajani,16
+Maharashtra,Latur,Ausa,33
+Maharashtra,Latur,Chakur,8
+Maharashtra,Latur,Latur,30
+Maharashtra,Latur,Nilanga,6
+Maharashtra,Mumbai,Mumbai,53
+Maharashtra,Mumbai,Vashi New Mumbai,1032
+Maharashtra,Nagpur,Hingna,593
+Maharashtra,Nagpur,Kalmeshwar,60
+Maharashtra,Nagpur,Kamthi,926
+Maharashtra,Nagpur,Katol,152
+Maharashtra,Nagpur,Nagpur,1519
+Maharashtra,Nagpur,Parshiwani,2
+Maharashtra,Nagpur,Ramtek,525
+Maharashtra,Nagpur,Savner,111
+Maharashtra,Nagpur,Umared,74
+Maharashtra,Nanded,Bhokar,40
+Maharashtra,Nanded,Loha,67
+Maharashtra,Nanded,Mudkhed,1
+Maharashtra,Nanded,Nanded,74
+Maharashtra,Nanded,Umari,1
+Maharashtra,Nandurbar,Nandurbar,158
+Maharashtra,Nandurbar,Navapur,138
+Maharashtra,Nandurbar,Shahada,119
+Maharashtra,Nandurbar,Taloda,1
+Maharashtra,Nashik,Chandvad,538
+Maharashtra,Nashik,Devala,422
+Maharashtra,Nashik,Dindori,120
+Maharashtra,Nashik,Dindori(Vani),243
+Maharashtra,Nashik,Ghoti,17
+Maharashtra,Nashik,Kalvan,381
+Maharashtra,Nashik,Lasalgaon,705
+Maharashtra,Nashik,Lasalgaon(Niphad),760
+Maharashtra,Nashik,Lasalgaon(Vinchur),672
+Maharashtra,Nashik,Malegaon,129
+Maharashtra,Nashik,Malharshree Farmers Producer Co Ltd,82
+Maharashtra,Nashik,Mankamneshwar Farmar Producer CoLtd Sanchalit Mank,95
+Maharashtra,Nashik,Manmad,604
+Maharashtra,Nashik,Nampur,301
+Maharashtra,Nashik,Nandgaon,474
+Maharashtra,Nashik,Nasik,1099
+Maharashtra,Nashik,Pimpalgaon,615
+Maharashtra,Nashik,Pimpalgaon Baswant(Saykheda),482
+Maharashtra,Nashik,Premium Krushi Utpanna Bazar,1
+Maharashtra,Nashik,Satana,427
+Maharashtra,Nashik,Shivsiddha Govind Producer Company Limited Sanchal,195
+Maharashtra,Nashik,Shree Rameshwar Krushi Market,174
+Maharashtra,Nashik,Sinner,384
+Maharashtra,Nashik,Umrane,290
+Maharashtra,Nashik,Yeola,464
+Maharashtra,Parbhani,Bori,1
+Maharashtra,Parbhani,Gangakhed,33
+Maharashtra,Parbhani,Jintur,1
+Maharashtra,Parbhani,Manwat,20
+Maharashtra,Parbhani,Parbhani,82
+Maharashtra,Parbhani,Pathari,49
+Maharashtra,Parbhani,Purna,5
+Maharashtra,Parbhani,Selu,14
+Maharashtra,Parbhani,Sonpeth,4
+Maharashtra,Parbhani,Tadkalas,10
+Maharashtra,Pune,Baramati,310
+Maharashtra,Pune,Dound,63
+Maharashtra,Pune,Indapur,52
+Maharashtra,Pune,Indapur(Bhigwan),1
+Maharashtra,Pune,Indapur(Nimgaon Ketki),3
+Maharashtra,Pune,Junnar,224
+Maharashtra,Pune,Junnar(Alephata),235
+Maharashtra,Pune,Junnar(Narayangaon),807
+Maharashtra,Pune,Junnar(Otur),378
+Maharashtra,Pune,Khed(Chakan),947
+Maharashtra,Pune,Manchar,475
+Maharashtra,Pune,Nira,1
+Maharashtra,Pune,Nira(Saswad),11
+Maharashtra,Pune,Pune,1131
+Maharashtra,Pune,Pune(Khadiki),1120
+Maharashtra,Pune,Pune(Manjri),1288
+Maharashtra,Pune,Pune(Moshi),1172
+Maharashtra,Pune,Pune(Pimpri),566
+Maharashtra,Pune,Shirur,41
+Maharashtra,Raigad,Alibagh,61
+Maharashtra,Raigad,Karjat(Raigad),362
+Maharashtra,Raigad,Mangaon,52
+Maharashtra,Raigad,Murud,61
+Maharashtra,Raigad,Panvel,47
+Maharashtra,Raigad,Pen,225
+Maharashtra,Ratnagiri,Ratnagiri (Nachane),28
+Maharashtra,Sangli,Islampur,192
+Maharashtra,Sangli,Palus,11
+Maharashtra,Sangli,Sangli,150
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",970
+Maharashtra,Sangli,Tasgaon,83
+Maharashtra,Sangli,Vita,200
+Maharashtra,Satara,Karad,452
+Maharashtra,Satara,Lonand,121
+Maharashtra,Satara,Patan,29
+Maharashtra,Satara,Phaltan,109
+Maharashtra,Satara,Satara,993
+Maharashtra,Satara,Vaduj,33
+Maharashtra,Satara,Vai,615
+Maharashtra,Sholapur,Akkalkot,9
+Maharashtra,Sholapur,Akluj,703
+Maharashtra,Sholapur,Barshi,100
+Maharashtra,Sholapur,Barshi(Vairag),45
+Maharashtra,Sholapur,Dudhani,8
+Maharashtra,Sholapur,Karmala,80
+Maharashtra,Sholapur,Kurdwadi,6
+Maharashtra,Sholapur,Kurdwadi(Modnimb),183
+Maharashtra,Sholapur,Laxmi Sopan Agriculture Produce Marketing Co Ltd,179
+Maharashtra,Sholapur,Mangal Wedha,502
+Maharashtra,Sholapur,Pandharpur,99
+Maharashtra,Sholapur,Solapur,1337
+Maharashtra,Thane,Bhivandi,1
+Maharashtra,Thane,Kalyan,525
+Maharashtra,Thane,Murbad,5
+Maharashtra,Thane,Palghar,156
+Maharashtra,Thane,Ulhasnagar,195
+Maharashtra,Thane,Vasai,95
+Maharashtra,Wardha,Ashti(Karanja),13
+Maharashtra,Wardha,Hinganghat,141
+Maharashtra,Wardha,Pulgaon,9
+Maharashtra,Wardha,Sindi(Selu),84
+Maharashtra,Wardha,Wardha,116
+Uttar Pradesh,Agra,Achnera,1628
+Uttar Pradesh,Agra,Agra,1588
+Uttar Pradesh,Agra,Fatehabad,684
+Uttar Pradesh,Agra,Fatehpur Sikri,790
+Uttar Pradesh,Agra,Jagnair,586
+Uttar Pradesh,Agra,Khairagarh,359
+Uttar Pradesh,Agra,Samsabad,1275
+Uttar Pradesh,Aligarh,Aligarh,1671
+Uttar Pradesh,Aligarh,Atrauli,700
+Uttar Pradesh,Aligarh,Charra,1333
+Uttar Pradesh,Aligarh,Khair,1209
+Uttar Pradesh,Ambedkarnagar,Akbarpur,1887
+Uttar Pradesh,Amethi,Jafarganj,1656
+Uttar Pradesh,Amethi,Sultanpur,1901
+Uttar Pradesh,Amroha,Amroha,1603
+Uttar Pradesh,Amroha,Dhanaura,1058
+Uttar Pradesh,Amroha,Hasanpur,1210
+Uttar Pradesh,Auraiya,Achalda,1542
+Uttar Pradesh,Auraiya,Auraiya,1610
+Uttar Pradesh,Auraiya,Dibiapur,592
+Uttar Pradesh,Ayodhya,Rudauli,5
+Uttar Pradesh,Azamgarh,Azamgarh,1607
+Uttar Pradesh,Badaun,Babrala,90
+Uttar Pradesh,Badaun,Badayoun,1699
+Uttar Pradesh,Badaun,Bilsi,1184
+Uttar Pradesh,Badaun,Dataganj,48
+Uttar Pradesh,Badaun,Shahaswan,834
+Uttar Pradesh,Badaun,Ujhani,1195
+Uttar Pradesh,Badaun,Visoli,580
+Uttar Pradesh,Badaun,Wazirganj,1701
+Uttar Pradesh,Baghpat,Bagpat,427
+Uttar Pradesh,Baghpat,Baraut,1322
+Uttar Pradesh,Baghpat,Khekda,640
+Uttar Pradesh,Bahraich,Bahraich,1651
+Uttar Pradesh,Bahraich,Naanpara,1289
+Uttar Pradesh,Ballia,Ballia,1489
+Uttar Pradesh,Ballia,Chitwadagaon,1040
+Uttar Pradesh,Ballia,Rasda,1359
+Uttar Pradesh,Ballia,Vilthararoad,583
+Uttar Pradesh,Balrampur,Balrampur,1083
+Uttar Pradesh,Balrampur,Bariya,14
+Uttar Pradesh,Balrampur,Kusmee,38
+Uttar Pradesh,Balrampur,Panchpedwa,773
+Uttar Pradesh,Balrampur,Rajpur,20
+Uttar Pradesh,Balrampur,Ramanujganj,34
+Uttar Pradesh,Balrampur,Tulsipur,1696
+Uttar Pradesh,Banda,Atarra,1448
+Uttar Pradesh,Banda,Baberu,231
+Uttar Pradesh,Banda,Banda,1537
+Uttar Pradesh,Barabanki,Barabanki,1372
+Uttar Pradesh,Barabanki,Safdarganj,1577
+Uttar Pradesh,Bareilly,Anwala,1292
+Uttar Pradesh,Bareilly,Bahedi,1012
+Uttar Pradesh,Bareilly,Bareilly,1844
+Uttar Pradesh,Bareilly,Richha,34
+Uttar Pradesh,Basti,Basti,1542
+Uttar Pradesh,Bijnor,Bijnaur,1450
+Uttar Pradesh,Bijnor,Chaandpur,1069
+Uttar Pradesh,Bijnor,Kiratpur,393
+Uttar Pradesh,Bijnor,Nagina,508
+Uttar Pradesh,Bijnor,Najibabad,487
+Uttar Pradesh,Bulandshahar,Anoop Shahar,1394
+Uttar Pradesh,Bulandshahar,Buland Shahr,1413
+Uttar Pradesh,Bulandshahar,Divai,628
+Uttar Pradesh,Bulandshahar,Gulavati,1370
+Uttar Pradesh,Bulandshahar,Jahangirabad,1455
+Uttar Pradesh,Bulandshahar,Khurja,1254
+Uttar Pradesh,Bulandshahar,Sikanderabad,763
+Uttar Pradesh,Bulandshahar,Sikarpur,1194
+Uttar Pradesh,Bulandshahar,Siyana,1241
+Uttar Pradesh,Chandauli,Chandoli,1480
+Uttar Pradesh,Deoria,Barhaj,168
+Uttar Pradesh,Deoria,Devariya,1281
+Uttar Pradesh,Etah,Aliganj,159
+Uttar Pradesh,Etah,Awagarh,702
+Uttar Pradesh,Etah,Etah,1542
+Uttar Pradesh,Etawah,Bharthna,1524
+Uttar Pradesh,Etawah,Etawah,1579
+Uttar Pradesh,Etawah,Jasvantnagar,1244
+Uttar Pradesh,Fatehpur,Bindki,1509
+Uttar Pradesh,Fatehpur,Fatehpur,1583
+Uttar Pradesh,Fatehpur,Jahanabad,496
+Uttar Pradesh,Fatehpur,Khaga,1477
+Uttar Pradesh,Fatehpur,Kishunpur,213
+Uttar Pradesh,Firozabad,Firozabad,1557
+Uttar Pradesh,Firozabad,Shikohabad,450
+Uttar Pradesh,Firozabad,Sirsaganj,667
+Uttar Pradesh,Firozabad,Tundla,1240
+Uttar Pradesh,Ghaziabad,Ghaziabad,1815
+Uttar Pradesh,Ghaziabad,Hapur,1483
+Uttar Pradesh,Ghaziabad,Muradnagar,207
+Uttar Pradesh,Ghaziabad,Noida,1610
+Uttar Pradesh,Ghazipur,Gazipur,1365
+Uttar Pradesh,Ghazipur,Jangipura,107
+Uttar Pradesh,Ghazipur,Yusufpur,11
+Uttar Pradesh,Gonda,Gonda,1599
+Uttar Pradesh,Gonda,Karnailganj,94
+Uttar Pradesh,Gonda,Nawabganj,1677
+Uttar Pradesh,Gorakhpur,Chorichora,661
+Uttar Pradesh,Gorakhpur,Gorakhpur,1382
+Uttar Pradesh,Gorakhpur,Sehjanwa,909
+Uttar Pradesh,Hardoi,Hardoi,1590
+Uttar Pradesh,Hardoi,Madhoganj,1630
+Uttar Pradesh,Hardoi,Sandi,1335
+Uttar Pradesh,Hardoi,Sandila,1628
+Uttar Pradesh,Hardoi,Shahabad(New Mandi),1019
+Uttar Pradesh,Jaunpur,Jaunpur,1373
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,1520
+Uttar Pradesh,Jaunpur,Shahganj,1304
+Uttar Pradesh,Jhansi,Chirgaon,1369
+Uttar Pradesh,Jhansi,Gurusarai,1573
+Uttar Pradesh,Jhansi,Jhansi,1391
+Uttar Pradesh,Jhansi,Jhansi (Grain),1
+Uttar Pradesh,Jhansi,Mauranipur,1559
+Uttar Pradesh,Jhansi,Moth,1476
+Uttar Pradesh,Kanpur,Uttaripura,3
+Uttar Pradesh,Kaushambi,Bharwari,1071
+Uttar Pradesh,Kaushambi,Manjhanpur,642
+Uttar Pradesh,Kushinagar,Tamkuhi road,560
+Uttar Pradesh,Lalitpur,Lalitpur,1396
+Uttar Pradesh,Lalitpur,Mehrauni,195
+Uttar Pradesh,Lucknow,Banthara,171
+Uttar Pradesh,Lucknow,Lucknow,1591
+Uttar Pradesh,Maharajganj,Anandnagar,1324
+Uttar Pradesh,Maharajganj,Gadaura,1157
+Uttar Pradesh,Maharajganj,Nautnava,1274
+Uttar Pradesh,Maharajganj,Partaval,1249
+Uttar Pradesh,Mahoba,Charkhari,141
+Uttar Pradesh,Mahoba,Mahoba,1525
+Uttar Pradesh,Mainpuri,Bewar,766
+Uttar Pradesh,Mainpuri,Ghiraur,1454
+Uttar Pradesh,Mainpuri,Mainpuri,1481
+Uttar Pradesh,Mathura,Kosikalan,1057
+Uttar Pradesh,Mathura,Mathura,1396
+Uttar Pradesh,Meerut,Mawana,139
+Uttar Pradesh,Meerut,Meerut,1354
+Uttar Pradesh,Meerut,Parikshitgarh,8
+Uttar Pradesh,Meerut,Sardhana,292
+Uttar Pradesh,Mirzapur,Ahirora,1415
+Uttar Pradesh,Mirzapur,Mirzapur,1665
+Uttar Pradesh,Muzaffarnagar,Khatauli,239
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,1839
+Uttar Pradesh,Muzaffarnagar,Shahpur,209
+Uttar Pradesh,Pratapgarh,Pratapgarh,2179
+Uttar Pradesh,Prayagraj,Ajuha,1729
+Uttar Pradesh,Prayagraj,Allahabad,1261
+Uttar Pradesh,Prayagraj,Jasra,749
+Uttar Pradesh,Prayagraj,Lediyari,5
+Uttar Pradesh,Prayagraj,Sirsa,410
+Uttar Pradesh,Rampur,Milak,1298
+Uttar Pradesh,Rampur,Rampur,1556
+Uttar Pradesh,Rampur,Shahabad,64
+Uttar Pradesh,Rampur,Tanda(Rampur),68
+Uttar Pradesh,Saharanpur,Chutmalpur,945
+Uttar Pradesh,Saharanpur,Deoband,307
+Uttar Pradesh,Saharanpur,Gangoh,1097
+Uttar Pradesh,Saharanpur,Rampurmaniharan,750
+Uttar Pradesh,Saharanpur,Saharanpur,1769
+Uttar Pradesh,Sambhal,Bhehjoi,438
+Uttar Pradesh,Sambhal,Chandausi,1096
+Uttar Pradesh,Sambhal,Muradabad,1612
+Uttar Pradesh,Sambhal,Sambhal,1428
+Uttar Pradesh,Shahjahanpur,Badda,14
+Uttar Pradesh,Shahjahanpur,Jalalabad,210
+Uttar Pradesh,Shahjahanpur,Puwaha,1868
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,1170
+Uttar Pradesh,Shahjahanpur,Tilhar,1314
+Uttar Pradesh,Shamli,Shamli,7
+Uttar Pradesh,Shravasti,Bhinga,574
+Uttar Pradesh,Shravasti,Payagpur,568
+Uttar Pradesh,Sitapur,Hargaon (Laharpur),1407
+Uttar Pradesh,Sitapur,Mehmoodabad,1067
+Uttar Pradesh,Sitapur,Sitapur,1503
+Uttar Pradesh,Sitapur,Viswan,1408
+Uttar Pradesh,Sonbhadra,Dudhi,403
+Uttar Pradesh,Sonbhadra,Robertsganj,1341
+Uttar Pradesh,Unnao,Bangarmau,1541
+Uttar Pradesh,Unnao,Purwa,1579
+Uttar Pradesh,Unnao,Unnao,1588
+Uttar Pradesh,Varanasi,Varanasi,566
+Uttar Pradesh,Varanasi,Varanasi(F&V),668

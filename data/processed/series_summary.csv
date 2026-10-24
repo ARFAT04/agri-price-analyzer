@@ -1,0 +1,13 @@
+group,commodity,state,start,end,days,days_missing,still_nan
+full,Onion,Uttar Pradesh,2023-06-06,2025-06-11,737,90,84
+full,Onion,Maharashtra,2023-06-06,2025-06-11,737,98,84
+full,Onion,Madhya Pradesh,2023-06-06,2025-06-11,737,94,84
+full,Potato,Uttar Pradesh,2023-06-06,2025-06-11,737,0,0
+full,Potato,Maharashtra,2023-06-06,2025-06-11,737,10,0
+full,Potato,Madhya Pradesh,2023-06-06,2025-06-11,737,15,0
+limited,Tomato,Uttar Pradesh,2023-06-06,2023-11-06,154,0,0
+limited,Tomato,Maharashtra,2023-06-06,2023-11-06,154,15,1
+limited,Tomato,Madhya Pradesh,2023-06-06,2023-11-06,154,6,0
+limited,Wheat,Uttar Pradesh,2023-06-06,2024-02-06,246,0,0
+limited,Wheat,Maharashtra,2023-06-06,2024-02-06,246,1,0
+limited,Wheat,Madhya Pradesh,2023-06-06,2024-02-06,246,0,0
