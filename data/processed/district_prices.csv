@@ -1,0 +1,809 @@
+state,district,lat,lon,commodity,month,avg_price,records
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2023-06,831.0,72
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2023-07,919.0,124
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2023-08,1197.0,127
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2023-09,1333.0,96
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2023-10,1926.0,98
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2023-11,3127.0,93
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2023-12,2305.0,60
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-01,700.0,2
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-02,762.0,2
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-03,1017.0,6
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-04,1007.0,17
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-05,909.0,11
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-06,781.0,8
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-07,1943.0,55
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-08,1981.0,49
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-09,2650.0,58
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-10,2972.0,69
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-11,3089.0,46
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2024-12,2474.0,8
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2025-02,1780.0,53
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2025-03,1471.0,76
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2025-04,880.0,123
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2025-05,830.0,70
+Madhya Pradesh,Dhar,22.59373,75.29774,Onion,2025-06,755.0,25
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2023-06,1082.0,83
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2023-07,1145.0,114
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2023-08,1224.0,123
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2023-09,1215.0,88
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2023-10,1263.0,97
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2023-11,1211.0,81
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2023-12,1055.0,61
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2024-09,2420.0,5
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2024-10,2365.0,37
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2024-11,2353.0,26
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2024-12,2008.0,30
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2025-01,1352.0,53
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2025-02,1254.0,50
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2025-03,1241.0,47
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2025-04,1133.0,49
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2025-05,1043.0,45
+Madhya Pradesh,Dhar,22.59373,75.29774,Potato,2025-06,1120.0,18
+Madhya Pradesh,Dhar,22.59373,75.29774,Tomato,2023-06,2198.0,100
+Madhya Pradesh,Dhar,22.59373,75.29774,Tomato,2023-07,4879.0,91
+Madhya Pradesh,Dhar,22.59373,75.29774,Tomato,2023-08,3920.0,5
+Madhya Pradesh,Dhar,22.59373,75.29774,Tomato,2023-09,1800.0,4
+Madhya Pradesh,Dhar,22.59373,75.29774,Tomato,2023-10,970.0,10
+Madhya Pradesh,Dhar,22.59373,75.29774,Tomato,2023-11,1100.0,1
+Madhya Pradesh,Dhar,22.59373,75.29774,Wheat,2023-06,2336.0,144
+Madhya Pradesh,Dhar,22.59373,75.29774,Wheat,2023-07,2376.0,193
+Madhya Pradesh,Dhar,22.59373,75.29774,Wheat,2023-08,2539.0,166
+Madhya Pradesh,Dhar,22.59373,75.29774,Wheat,2023-09,2590.0,112
+Madhya Pradesh,Dhar,22.59373,75.29774,Wheat,2023-10,2684.0,154
+Madhya Pradesh,Dhar,22.59373,75.29774,Wheat,2023-11,2778.0,123
+Madhya Pradesh,Dhar,22.59373,75.29774,Wheat,2023-12,2710.0,123
+Madhya Pradesh,Dhar,22.59373,75.29774,Wheat,2024-01,2661.0,103
+Madhya Pradesh,Dhar,22.59373,75.29774,Wheat,2024-02,2464.0,32
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2023-06,839.0,67
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2023-07,972.0,88
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2023-08,1149.0,81
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2023-09,1235.0,82
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2023-10,1521.0,92
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2023-11,3104.0,70
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2023-12,2635.0,68
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-01,1180.0,40
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-02,1078.0,34
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-03,1630.0,49
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-04,1392.0,50
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-05,1610.0,44
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-06,1920.0,14
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-07,2395.0,64
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-08,2587.0,86
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-09,3069.0,79
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-10,2904.0,102
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-11,2996.0,84
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2024-12,2896.0,16
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2025-02,2324.0,75
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2025-03,1742.0,95
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2025-04,1150.0,144
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2025-05,967.0,122
+Madhya Pradesh,Indore,22.71792,75.8333,Onion,2025-06,1129.0,34
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2023-06,1122.0,66
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2023-07,1371.0,77
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2023-08,1354.0,61
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2023-09,1342.0,65
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2023-10,1361.0,78
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2023-11,1076.0,65
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2023-12,976.0,67
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-01,859.0,36
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-02,968.0,52
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-03,1802.0,37
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-04,2154.0,32
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-05,2023.0,14
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-06,2133.0,11
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-07,2138.0,9
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-08,2104.0,16
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-09,2264.0,16
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-10,1723.0,43
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-11,2038.0,46
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2024-12,1533.0,73
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2025-01,1315.0,93
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2025-02,1232.0,79
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2025-03,1092.0,57
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2025-04,1310.0,50
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2025-05,1302.0,82
+Madhya Pradesh,Indore,22.71792,75.8333,Potato,2025-06,1378.0,22
+Madhya Pradesh,Indore,22.71792,75.8333,Tomato,2023-06,2640.0,56
+Madhya Pradesh,Indore,22.71792,75.8333,Tomato,2023-07,6381.0,37
+Madhya Pradesh,Indore,22.71792,75.8333,Tomato,2023-08,6400.0,6
+Madhya Pradesh,Indore,22.71792,75.8333,Tomato,2023-10,840.0,5
+Madhya Pradesh,Indore,22.71792,75.8333,Tomato,2023-11,1100.0,2
+Madhya Pradesh,Indore,22.71792,75.8333,Wheat,2023-06,2201.0,76
+Madhya Pradesh,Indore,22.71792,75.8333,Wheat,2023-07,2250.0,90
+Madhya Pradesh,Indore,22.71792,75.8333,Wheat,2023-08,2409.0,87
+Madhya Pradesh,Indore,22.71792,75.8333,Wheat,2023-09,2493.0,59
+Madhya Pradesh,Indore,22.71792,75.8333,Wheat,2023-10,2549.0,87
+Madhya Pradesh,Indore,22.71792,75.8333,Wheat,2023-11,2574.0,70
+Madhya Pradesh,Indore,22.71792,75.8333,Wheat,2023-12,2507.0,57
+Madhya Pradesh,Indore,22.71792,75.8333,Wheat,2024-01,2674.0,28
+Madhya Pradesh,Indore,22.71792,75.8333,Wheat,2024-02,2393.0,10
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2023-06,858.0,30
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2023-07,1241.0,46
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2023-08,1369.0,35
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2023-09,1382.0,36
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2023-10,1917.0,38
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2023-11,3138.0,24
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2023-12,2020.0,21
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2024-01,838.0,17
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2024-02,770.0,11
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2024-03,786.0,37
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2024-04,1100.0,76
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2024-05,965.0,16
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2024-06,900.0,1
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2024-09,3640.0,5
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2024-10,4205.0,20
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2024-11,3344.0,25
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2024-12,2683.0,6
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2025-02,1366.0,30
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2025-03,1184.0,49
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2025-04,851.0,135
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2025-05,881.0,51
+Madhya Pradesh,Sagar,23.83877,78.73874,Onion,2025-06,875.0,12
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2023-06,1046.0,44
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2023-07,1159.0,52
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2023-08,1237.0,40
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2023-09,1325.0,39
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2023-10,1137.0,38
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2023-11,1039.0,23
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2023-12,825.0,22
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2024-01,625.0,4
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2024-09,2400.0,4
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2024-10,2435.0,20
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2024-11,2238.0,24
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2024-12,2126.0,27
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2025-01,1526.0,27
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2025-02,1283.0,24
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2025-03,1205.0,20
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2025-04,1135.0,58
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2025-05,1112.0,49
+Madhya Pradesh,Sagar,23.83877,78.73874,Potato,2025-06,1132.0,19
+Madhya Pradesh,Sagar,23.83877,78.73874,Tomato,2023-06,2013.0,44
+Madhya Pradesh,Sagar,23.83877,78.73874,Tomato,2023-07,5774.0,25
+Madhya Pradesh,Sagar,23.83877,78.73874,Tomato,2023-08,4367.0,3
+Madhya Pradesh,Sagar,23.83877,78.73874,Tomato,2023-09,1340.0,2
+Madhya Pradesh,Sagar,23.83877,78.73874,Tomato,2023-10,1000.0,1
+Madhya Pradesh,Sagar,23.83877,78.73874,Wheat,2023-06,2216.0,232
+Madhya Pradesh,Sagar,23.83877,78.73874,Wheat,2023-07,2259.0,275
+Madhya Pradesh,Sagar,23.83877,78.73874,Wheat,2023-08,2381.0,240
+Madhya Pradesh,Sagar,23.83877,78.73874,Wheat,2023-09,2339.0,145
+Madhya Pradesh,Sagar,23.83877,78.73874,Wheat,2023-10,2441.0,252
+Madhya Pradesh,Sagar,23.83877,78.73874,Wheat,2023-11,2492.0,196
+Madhya Pradesh,Sagar,23.83877,78.73874,Wheat,2023-12,2462.0,203
+Madhya Pradesh,Sagar,23.83877,78.73874,Wheat,2024-01,2467.0,127
+Madhya Pradesh,Sagar,23.83877,78.73874,Wheat,2024-02,2365.0,26
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2023-06,761.0,47
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2023-07,885.0,85
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2023-08,1268.0,90
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2023-09,1328.0,87
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2023-10,2031.0,86
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2023-11,2746.0,60
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2023-12,1925.0,56
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-01,869.0,18
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-02,948.0,37
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-03,1234.0,59
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-04,1272.0,84
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-05,1173.0,94
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-06,1297.0,30
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-07,2054.0,152
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-08,2473.0,136
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-09,3173.0,145
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-10,3139.0,163
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-11,3539.0,148
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2024-12,2961.0,28
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2025-02,2074.0,123
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2025-03,1387.0,160
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2025-04,941.0,135
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2025-05,805.0,144
+Madhya Pradesh,Shajapur,23.42637,76.27775,Onion,2025-06,852.0,39
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2023-12,554.0,17
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2024-01,686.0,34
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2024-02,1000.0,32
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2024-03,1425.0,28
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2024-04,1751.0,34
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2024-05,1648.0,13
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2024-06,1418.0,1
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2024-08,2204.0,9
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2024-09,2006.0,9
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2024-10,2125.0,8
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2024-11,1903.0,8
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2024-12,1645.0,55
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2025-01,1407.0,119
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2025-02,1202.0,94
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2025-03,1066.0,62
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2025-04,1099.0,36
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2025-05,995.0,31
+Madhya Pradesh,Shajapur,23.42637,76.27775,Potato,2025-06,926.0,1
+Madhya Pradesh,Shajapur,23.42637,76.27775,Wheat,2023-06,2216.0,197
+Madhya Pradesh,Shajapur,23.42637,76.27775,Wheat,2023-07,2264.0,289
+Madhya Pradesh,Shajapur,23.42637,76.27775,Wheat,2023-08,2358.0,254
+Madhya Pradesh,Shajapur,23.42637,76.27775,Wheat,2023-09,2380.0,167
+Madhya Pradesh,Shajapur,23.42637,76.27775,Wheat,2023-10,2420.0,212
+Madhya Pradesh,Shajapur,23.42637,76.27775,Wheat,2023-11,2461.0,198
+Madhya Pradesh,Shajapur,23.42637,76.27775,Wheat,2023-12,2433.0,160
+Madhya Pradesh,Shajapur,23.42637,76.27775,Wheat,2024-01,2494.0,11
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2023-06,709.0,12
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2023-07,814.0,17
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2023-08,1389.0,12
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2023-09,1670.0,13
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2023-10,1937.0,30
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2023-11,2937.0,19
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2023-12,1887.0,19
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-01,980.0,5
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-02,1051.0,6
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-03,1604.0,21
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-04,1543.0,19
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-05,1132.0,19
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-06,917.0,10
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-07,1835.0,57
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-08,2066.0,67
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-09,2797.0,88
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-10,3022.0,62
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-11,2923.0,41
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2024-12,3830.0,5
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2025-02,2320.0,34
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2025-03,1323.0,47
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2025-04,950.0,44
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2025-05,742.0,28
+Madhya Pradesh,Ujjain,23.18239,75.77643,Onion,2025-06,628.0,4
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2023-06,1165.0,17
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2023-07,1127.0,20
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2023-08,1065.0,17
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2023-09,766.0,11
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2023-10,817.0,15
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2023-11,671.0,3
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2023-12,563.0,25
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-01,496.0,27
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-02,667.0,27
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-03,1368.0,26
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-04,1923.0,29
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-05,1893.0,31
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-06,2238.0,31
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-07,2320.0,38
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-08,2141.0,41
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-09,2229.0,25
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-10,2297.0,20
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-11,2449.0,22
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2024-12,1723.0,25
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2025-01,1642.0,53
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2025-02,1134.0,51
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2025-03,828.0,43
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2025-04,1126.0,34
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2025-05,1418.0,32
+Madhya Pradesh,Ujjain,23.18239,75.77643,Potato,2025-06,1649.0,9
+Madhya Pradesh,Ujjain,23.18239,75.77643,Tomato,2023-06,998.0,12
+Madhya Pradesh,Ujjain,23.18239,75.77643,Tomato,2023-07,3431.0,8
+Madhya Pradesh,Ujjain,23.18239,75.77643,Wheat,2023-06,2254.0,164
+Madhya Pradesh,Ujjain,23.18239,75.77643,Wheat,2023-07,2320.0,184
+Madhya Pradesh,Ujjain,23.18239,75.77643,Wheat,2023-08,2462.0,166
+Madhya Pradesh,Ujjain,23.18239,75.77643,Wheat,2023-09,2521.0,68
+Madhya Pradesh,Ujjain,23.18239,75.77643,Wheat,2023-10,2588.0,140
+Madhya Pradesh,Ujjain,23.18239,75.77643,Wheat,2023-11,2684.0,116
+Madhya Pradesh,Ujjain,23.18239,75.77643,Wheat,2023-12,2577.0,114
+Madhya Pradesh,Ujjain,23.18239,75.77643,Wheat,2024-01,2556.0,12
+Madhya Pradesh,Ujjain,23.18239,75.77643,Wheat,2024-02,2634.0,2
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2023-06,1450.0,50
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2023-07,1813.0,61
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2023-08,2037.0,61
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2023-09,2566.0,60
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2023-10,3329.0,57
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2023-11,4556.0,50
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2023-12,2939.0,55
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-01,1985.0,55
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-02,1696.0,59
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-03,1792.0,79
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-04,1659.0,65
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-05,1658.0,97
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-06,1867.0,18
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-07,3193.0,66
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-08,3591.0,77
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-09,4195.0,83
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-10,4066.0,82
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-11,4178.0,80
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2024-12,4052.0,17
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2025-02,2303.0,35
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2025-03,1961.0,98
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2025-04,1543.0,103
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2025-05,1368.0,102
+Maharashtra,Nagpur,21.14631,79.08491,Onion,2025-06,1476.0,41
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2023-06,1462.0,42
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2023-07,1553.0,49
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2023-08,1646.0,48
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2023-09,1587.0,45
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2023-10,1612.0,47
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2023-11,1499.0,36
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2023-12,1473.0,48
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-01,1483.0,48
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-02,1257.0,47
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-03,1613.0,64
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-04,2037.0,51
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-05,2178.0,77
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-06,2480.0,69
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-07,2740.0,69
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-08,2805.0,67
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-09,2922.0,69
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-10,2863.0,65
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-11,2739.0,64
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2024-12,2647.0,75
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2025-01,2167.0,92
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2025-02,1786.0,47
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2025-03,1782.0,64
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2025-04,1838.0,74
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2025-05,1873.0,76
+Maharashtra,Nagpur,21.14631,79.08491,Potato,2025-06,1831.0,31
+Maharashtra,Nagpur,21.14631,79.08491,Rice,2025-04,4800.0,4
+Maharashtra,Nagpur,21.14631,79.08491,Rice,2025-05,4600.0,10
+Maharashtra,Nagpur,21.14631,79.08491,Rice,2025-06,4700.0,1
+Maharashtra,Nagpur,21.14631,79.08491,Tomato,2023-06,3564.0,106
+Maharashtra,Nagpur,21.14631,79.08491,Tomato,2023-07,9297.0,119
+Maharashtra,Nagpur,21.14631,79.08491,Tomato,2023-08,9698.0,32
+Maharashtra,Nagpur,21.14631,79.08491,Tomato,2023-09,1282.0,9
+Maharashtra,Nagpur,21.14631,79.08491,Tomato,2023-10,1158.0,2
+Maharashtra,Nagpur,21.14631,79.08491,Tomato,2023-11,1500.0,1
+Maharashtra,Nagpur,21.14631,79.08491,Wheat,2023-06,2476.0,87
+Maharashtra,Nagpur,21.14631,79.08491,Wheat,2023-07,2452.0,89
+Maharashtra,Nagpur,21.14631,79.08491,Wheat,2023-08,2594.0,85
+Maharashtra,Nagpur,21.14631,79.08491,Wheat,2023-09,2623.0,78
+Maharashtra,Nagpur,21.14631,79.08491,Wheat,2023-10,2685.0,77
+Maharashtra,Nagpur,21.14631,79.08491,Wheat,2023-11,2753.0,73
+Maharashtra,Nagpur,21.14631,79.08491,Wheat,2023-12,2815.0,82
+Maharashtra,Nagpur,21.14631,79.08491,Wheat,2024-01,2824.0,76
+Maharashtra,Nagpur,21.14631,79.08491,Wheat,2024-02,2991.0,16
+Maharashtra,Nashik,19.99727,73.79096,Onion,2023-06,886.0,330
+Maharashtra,Nashik,19.99727,73.79096,Onion,2023-07,1203.0,453
+Maharashtra,Nashik,19.99727,73.79096,Onion,2023-08,1825.0,351
+Maharashtra,Nashik,19.99727,73.79096,Onion,2023-09,1975.0,190
+Maharashtra,Nashik,19.99727,73.79096,Onion,2023-10,3112.0,375
+Maharashtra,Nashik,19.99727,73.79096,Onion,2023-11,3559.0,382
+Maharashtra,Nashik,19.99727,73.79096,Onion,2023-12,2272.0,518
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-01,1522.0,365
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-02,1300.0,342
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-03,1472.0,483
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-04,1319.0,100
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-05,1623.0,309
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-06,2022.0,70
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-07,2736.0,324
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-08,3249.0,375
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-09,4163.0,345
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-10,4013.0,410
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-11,4571.0,474
+Maharashtra,Nashik,19.99727,73.79096,Onion,2024-12,3773.0,107
+Maharashtra,Nashik,19.99727,73.79096,Onion,2025-02,2353.0,279
+Maharashtra,Nashik,19.99727,73.79096,Onion,2025-03,1615.0,492
+Maharashtra,Nashik,19.99727,73.79096,Onion,2025-04,1130.0,417
+Maharashtra,Nashik,19.99727,73.79096,Onion,2025-05,1087.0,406
+Maharashtra,Nashik,19.99727,73.79096,Onion,2025-06,1367.0,140
+Maharashtra,Nashik,19.99727,73.79096,Potato,2023-06,1245.0,20
+Maharashtra,Nashik,19.99727,73.79096,Potato,2023-07,1348.0,25
+Maharashtra,Nashik,19.99727,73.79096,Potato,2023-08,1343.0,23
+Maharashtra,Nashik,19.99727,73.79096,Potato,2023-09,1314.0,18
+Maharashtra,Nashik,19.99727,73.79096,Potato,2023-10,1353.0,19
+Maharashtra,Nashik,19.99727,73.79096,Potato,2023-11,1348.0,20
+Maharashtra,Nashik,19.99727,73.79096,Potato,2023-12,1426.0,23
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-01,1367.0,23
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-02,1489.0,22
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-03,1644.0,16
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-04,2147.0,17
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-05,2257.0,23
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-06,2493.0,23
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-07,2715.0,27
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-08,2625.0,24
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-09,2560.0,24
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-10,2530.0,25
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-11,2642.0,19
+Maharashtra,Nashik,19.99727,73.79096,Potato,2024-12,2038.0,25
+Maharashtra,Nashik,19.99727,73.79096,Potato,2025-01,1604.0,27
+Maharashtra,Nashik,19.99727,73.79096,Potato,2025-02,1458.0,20
+Maharashtra,Nashik,19.99727,73.79096,Potato,2025-03,1448.0,24
+Maharashtra,Nashik,19.99727,73.79096,Potato,2025-04,1664.0,22
+Maharashtra,Nashik,19.99727,73.79096,Potato,2025-05,1722.0,25
+Maharashtra,Nashik,19.99727,73.79096,Potato,2025-06,1700.0,8
+Maharashtra,Nashik,19.99727,73.79096,Tomato,2023-06,1912.0,59
+Maharashtra,Nashik,19.99727,73.79096,Tomato,2023-07,6819.0,61
+Maharashtra,Nashik,19.99727,73.79096,Tomato,2023-08,9492.0,14
+Maharashtra,Nashik,19.99727,73.79096,Tomato,2023-09,550.0,2
+Maharashtra,Nashik,19.99727,73.79096,Wheat,2023-06,2308.0,139
+Maharashtra,Nashik,19.99727,73.79096,Wheat,2023-07,2368.0,138
+Maharashtra,Nashik,19.99727,73.79096,Wheat,2023-08,2523.0,128
+Maharashtra,Nashik,19.99727,73.79096,Wheat,2023-09,2574.0,60
+Maharashtra,Nashik,19.99727,73.79096,Wheat,2023-10,2618.0,142
+Maharashtra,Nashik,19.99727,73.79096,Wheat,2023-11,2777.0,84
+Maharashtra,Nashik,19.99727,73.79096,Wheat,2023-12,2715.0,111
+Maharashtra,Nashik,19.99727,73.79096,Wheat,2024-01,2738.0,127
+Maharashtra,Nashik,19.99727,73.79096,Wheat,2024-02,2667.0,30
+Maharashtra,Pune,18.51957,73.85535,Onion,2023-06,973.0,185
+Maharashtra,Pune,18.51957,73.85535,Onion,2023-07,1202.0,230
+Maharashtra,Pune,18.51957,73.85535,Onion,2023-08,1557.0,233
+Maharashtra,Pune,18.51957,73.85535,Onion,2023-09,1656.0,209
+Maharashtra,Pune,18.51957,73.85535,Onion,2023-10,2377.0,220
+Maharashtra,Pune,18.51957,73.85535,Onion,2023-11,3188.0,169
+Maharashtra,Pune,18.51957,73.85535,Onion,2023-12,2311.0,189
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-01,1490.0,198
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-02,1285.0,204
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-03,1280.0,227
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-04,1179.0,162
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-05,1415.0,228
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-06,1731.0,45
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-07,2403.0,172
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-08,2807.0,220
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-09,3603.0,233
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-10,3321.0,232
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-11,4149.0,207
+Maharashtra,Pune,18.51957,73.85535,Onion,2024-12,4037.0,41
+Maharashtra,Pune,18.51957,73.85535,Onion,2025-02,2212.0,148
+Maharashtra,Pune,18.51957,73.85535,Onion,2025-03,1643.0,226
+Maharashtra,Pune,18.51957,73.85535,Onion,2025-04,1160.0,207
+Maharashtra,Pune,18.51957,73.85535,Onion,2025-05,1060.0,209
+Maharashtra,Pune,18.51957,73.85535,Onion,2025-06,1106.0,77
+Maharashtra,Pune,18.51957,73.85535,Potato,2023-06,1365.0,120
+Maharashtra,Pune,18.51957,73.85535,Potato,2023-07,1403.0,124
+Maharashtra,Pune,18.51957,73.85535,Potato,2023-08,1493.0,132
+Maharashtra,Pune,18.51957,73.85535,Potato,2023-09,1416.0,129
+Maharashtra,Pune,18.51957,73.85535,Potato,2023-10,1399.0,163
+Maharashtra,Pune,18.51957,73.85535,Potato,2023-11,1350.0,149
+Maharashtra,Pune,18.51957,73.85535,Potato,2023-12,1286.0,179
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-01,1249.0,187
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-02,1374.0,187
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-03,1533.0,198
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-04,1881.0,117
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-05,2033.0,154
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-06,2289.0,136
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-07,2486.0,139
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-08,2529.0,131
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-09,2409.0,152
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-10,2446.0,144
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-11,2644.0,145
+Maharashtra,Pune,18.51957,73.85535,Potato,2024-12,1971.0,192
+Maharashtra,Pune,18.51957,73.85535,Potato,2025-01,1534.0,190
+Maharashtra,Pune,18.51957,73.85535,Potato,2025-02,1418.0,174
+Maharashtra,Pune,18.51957,73.85535,Potato,2025-03,1396.0,198
+Maharashtra,Pune,18.51957,73.85535,Potato,2025-04,1433.0,172
+Maharashtra,Pune,18.51957,73.85535,Potato,2025-05,1523.0,161
+Maharashtra,Pune,18.51957,73.85535,Potato,2025-06,1576.0,59
+Maharashtra,Pune,18.51957,73.85535,Tomato,2023-06,2375.0,152
+Maharashtra,Pune,18.51957,73.85535,Tomato,2023-07,6636.0,144
+Maharashtra,Pune,18.51957,73.85535,Tomato,2023-08,7944.0,31
+Maharashtra,Pune,18.51957,73.85535,Tomato,2023-09,775.0,2
+Maharashtra,Pune,18.51957,73.85535,Tomato,2023-10,750.0,2
+Maharashtra,Pune,18.51957,73.85535,Tomato,2023-11,1000.0,1
+Maharashtra,Pune,18.51957,73.85535,Wheat,2023-06,2359.0,27
+Maharashtra,Pune,18.51957,73.85535,Wheat,2023-07,2427.0,31
+Maharashtra,Pune,18.51957,73.85535,Wheat,2023-08,2438.0,29
+Maharashtra,Pune,18.51957,73.85535,Wheat,2023-09,2442.0,12
+Maharashtra,Pune,18.51957,73.85535,Wheat,2023-10,2517.0,21
+Maharashtra,Pune,18.51957,73.85535,Wheat,2023-11,2598.0,20
+Maharashtra,Pune,18.51957,73.85535,Wheat,2023-12,2578.0,22
+Maharashtra,Pune,18.51957,73.85535,Wheat,2024-01,2561.0,22
+Maharashtra,Pune,18.51957,73.85535,Wheat,2024-02,2567.0,6
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2023-06,895.0,55
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2023-07,1087.0,82
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2023-08,1450.0,74
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2023-09,1881.0,76
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2023-10,2351.0,80
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2023-11,3180.0,59
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2023-12,1930.0,55
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-01,1273.0,68
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-02,1152.0,74
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-03,1228.0,69
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-04,1141.0,48
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-05,1272.0,69
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-06,1608.0,13
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-07,2500.0,55
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-08,2856.0,72
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-09,3264.0,88
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-10,2195.0,72
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-11,2752.0,70
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2024-12,3200.0,16
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2025-02,2098.0,63
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2025-03,1470.0,87
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2025-04,949.0,81
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2025-05,923.0,76
+Maharashtra,Sholapur,17.67152,75.91044,Onion,2025-06,1057.0,34
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2023-06,1343.0,41
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2023-07,1378.0,49
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2023-08,1451.0,43
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2023-09,1406.0,41
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2023-10,1384.0,38
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2023-11,1406.0,39
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2023-12,1407.0,43
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-01,1627.0,49
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-02,1543.0,44
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-03,1585.0,47
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-04,2103.0,33
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-05,2102.0,45
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-06,2224.0,46
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-07,2440.0,46
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-08,2434.0,46
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-09,2487.0,39
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-10,2370.0,38
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-11,2459.0,37
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2024-12,2175.0,42
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2025-01,1808.0,45
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2025-02,1658.0,37
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2025-03,1672.0,44
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2025-04,1782.0,40
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2025-05,1773.0,43
+Maharashtra,Sholapur,17.67152,75.91044,Potato,2025-06,1736.0,17
+Maharashtra,Sholapur,17.67152,75.91044,Rice,2025-04,3637.0,19
+Maharashtra,Sholapur,17.67152,75.91044,Rice,2025-05,3743.0,23
+Maharashtra,Sholapur,17.67152,75.91044,Rice,2025-06,3819.0,5
+Maharashtra,Sholapur,17.67152,75.91044,Tomato,2023-06,2491.0,47
+Maharashtra,Sholapur,17.67152,75.91044,Tomato,2023-07,6110.0,63
+Maharashtra,Sholapur,17.67152,75.91044,Tomato,2023-08,6683.0,12
+Maharashtra,Sholapur,17.67152,75.91044,Wheat,2023-06,2572.0,83
+Maharashtra,Sholapur,17.67152,75.91044,Wheat,2023-07,2541.0,78
+Maharashtra,Sholapur,17.67152,75.91044,Wheat,2023-08,2661.0,75
+Maharashtra,Sholapur,17.67152,75.91044,Wheat,2023-09,2668.0,47
+Maharashtra,Sholapur,17.67152,75.91044,Wheat,2023-10,2690.0,62
+Maharashtra,Sholapur,17.67152,75.91044,Wheat,2023-11,2946.0,45
+Maharashtra,Sholapur,17.67152,75.91044,Wheat,2023-12,2785.0,50
+Maharashtra,Sholapur,17.67152,75.91044,Wheat,2024-01,2784.0,61
+Maharashtra,Sholapur,17.67152,75.91044,Wheat,2024-02,2871.0,13
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2023-06,1089.0,88
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2023-07,1265.0,116
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2023-08,1453.0,122
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2023-09,1753.0,128
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2023-10,1966.0,103
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2023-11,2833.0,102
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2023-12,2535.0,97
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-01,1915.0,106
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-02,1496.0,103
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-03,1674.0,118
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-04,1558.0,143
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-05,1478.0,149
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-06,1439.0,28
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-07,2510.0,122
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-08,2686.0,141
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-09,3184.0,131
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-10,3264.0,113
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-11,3252.0,98
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2024-12,3013.0,24
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2025-02,2085.0,102
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2025-03,2110.0,126
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2025-04,1402.0,110
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2025-05,1213.0,126
+Uttar Pradesh,Agra,27.18333,78.01667,Onion,2025-06,1199.0,39
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2023-06,777.0,98
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2023-07,934.0,123
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2023-08,966.0,115
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2023-09,932.0,140
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2023-10,846.0,108
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2023-11,800.0,98
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2023-12,739.0,101
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-01,679.0,109
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-02,712.0,118
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-03,1095.0,151
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-04,1415.0,153
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-05,1521.0,174
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-06,1552.0,174
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-07,1845.0,191
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-08,1912.0,176
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-09,1885.0,155
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-10,1882.0,137
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-11,1829.0,111
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2024-12,1695.0,157
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2025-01,1238.0,160
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2025-02,908.0,155
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2025-03,963.0,143
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2025-04,1012.0,123
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2025-05,1071.0,127
+Uttar Pradesh,Agra,27.18333,78.01667,Potato,2025-06,1087.0,43
+Uttar Pradesh,Agra,27.18333,78.01667,Rice,2025-04,3363.0,38
+Uttar Pradesh,Agra,27.18333,78.01667,Rice,2025-05,3369.0,52
+Uttar Pradesh,Agra,27.18333,78.01667,Rice,2025-06,3400.0,11
+Uttar Pradesh,Agra,27.18333,78.01667,Tomato,2023-06,1685.0,88
+Uttar Pradesh,Agra,27.18333,78.01667,Tomato,2023-07,7016.0,105
+Uttar Pradesh,Agra,27.18333,78.01667,Tomato,2023-08,3722.0,34
+Uttar Pradesh,Agra,27.18333,78.01667,Tomato,2023-09,1704.0,68
+Uttar Pradesh,Agra,27.18333,78.01667,Tomato,2023-10,1178.0,59
+Uttar Pradesh,Agra,27.18333,78.01667,Tomato,2023-11,1487.0,12
+Uttar Pradesh,Agra,27.18333,78.01667,Wheat,2023-06,2237.0,67
+Uttar Pradesh,Agra,27.18333,78.01667,Wheat,2023-07,2245.0,70
+Uttar Pradesh,Agra,27.18333,78.01667,Wheat,2023-08,2294.0,79
+Uttar Pradesh,Agra,27.18333,78.01667,Wheat,2023-09,2324.0,87
+Uttar Pradesh,Agra,27.18333,78.01667,Wheat,2023-10,2365.0,70
+Uttar Pradesh,Agra,27.18333,78.01667,Wheat,2023-11,2519.0,57
+Uttar Pradesh,Agra,27.18333,78.01667,Wheat,2023-12,2524.0,64
+Uttar Pradesh,Agra,27.18333,78.01667,Wheat,2024-01,2529.0,63
+Uttar Pradesh,Agra,27.18333,78.01667,Wheat,2024-02,2609.0,11
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2023-06,1123.0,94
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2023-07,1395.0,116
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2023-08,1595.0,117
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2023-09,1845.0,108
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2023-10,2085.0,119
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2023-11,3802.0,105
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2023-12,2879.0,114
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-01,1884.0,124
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-02,1672.0,114
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-03,1800.0,116
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-04,1775.0,107
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-05,1548.0,120
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-06,1425.0,24
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-07,2921.0,93
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-08,2965.0,82
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-09,3573.0,43
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-10,4069.0,41
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-11,4019.0,40
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2024-12,3914.0,14
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2025-02,2215.0,103
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2025-03,2463.0,126
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2025-04,1584.0,159
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2025-05,1203.0,229
+Uttar Pradesh,Badaun,28.83224,78.44366,Onion,2025-06,1151.0,76
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2023-06,902.0,121
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2023-07,1079.0,153
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2023-08,1128.0,151
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2023-09,1076.0,155
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2023-10,965.0,160
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2023-11,941.0,143
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2023-12,788.0,160
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-01,614.0,157
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-02,645.0,142
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-03,1085.0,155
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-04,1369.0,151
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-05,1555.0,155
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-06,1640.0,162
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-07,2094.0,165
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-08,2121.0,136
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-09,1954.0,113
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-10,1950.0,110
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-11,1996.0,107
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2024-12,1813.0,146
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2025-01,1276.0,143
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2025-02,939.0,152
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2025-03,987.0,173
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2025-04,1052.0,202
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2025-05,1041.0,276
+Uttar Pradesh,Badaun,28.83224,78.44366,Potato,2025-06,1038.0,96
+Uttar Pradesh,Badaun,28.83224,78.44366,Rice,2025-04,3304.0,23
+Uttar Pradesh,Badaun,28.83224,78.44366,Rice,2025-05,3334.0,45
+Uttar Pradesh,Badaun,28.83224,78.44366,Rice,2025-06,3358.0,10
+Uttar Pradesh,Badaun,28.83224,78.44366,Tomato,2023-06,1271.0,87
+Uttar Pradesh,Badaun,28.83224,78.44366,Tomato,2023-07,6795.0,93
+Uttar Pradesh,Badaun,28.83224,78.44366,Tomato,2023-08,6977.0,29
+Uttar Pradesh,Badaun,28.83224,78.44366,Tomato,2023-09,1807.0,26
+Uttar Pradesh,Badaun,28.83224,78.44366,Tomato,2023-10,1148.0,24
+Uttar Pradesh,Badaun,28.83224,78.44366,Tomato,2023-11,1502.0,6
+Uttar Pradesh,Badaun,28.83224,78.44366,Wheat,2023-06,2232.0,138
+Uttar Pradesh,Badaun,28.83224,78.44366,Wheat,2023-07,2268.0,112
+Uttar Pradesh,Badaun,28.83224,78.44366,Wheat,2023-08,2297.0,102
+Uttar Pradesh,Badaun,28.83224,78.44366,Wheat,2023-09,2334.0,111
+Uttar Pradesh,Badaun,28.83224,78.44366,Wheat,2023-10,2351.0,99
+Uttar Pradesh,Badaun,28.83224,78.44366,Wheat,2023-11,2485.0,71
+Uttar Pradesh,Badaun,28.83224,78.44366,Wheat,2023-12,2522.0,71
+Uttar Pradesh,Badaun,28.83224,78.44366,Wheat,2024-01,2526.0,98
+Uttar Pradesh,Badaun,28.83224,78.44366,Wheat,2024-02,2553.0,18
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2023-06,1112.0,89
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2023-07,1462.0,107
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2023-08,1891.0,97
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2023-09,1986.0,130
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2023-10,2251.0,132
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2023-11,3631.0,129
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2023-12,2982.0,126
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-01,1853.0,120
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-02,1633.0,128
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-03,1917.0,134
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-04,1679.0,138
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-05,1601.0,137
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-06,1497.0,27
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-07,2695.0,116
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-08,2875.0,131
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-09,3764.0,125
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-10,4101.0,127
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-11,4056.0,109
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2024-12,3749.0,24
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2025-02,2310.0,105
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2025-03,2435.0,140
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2025-04,1640.0,136
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2025-05,1225.0,146
+Uttar Pradesh,Hardoi,27.39491,80.13165,Onion,2025-06,1180.0,47
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2023-06,1035.0,90
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2023-07,1152.0,108
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2023-08,1163.0,97
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2023-09,1164.0,129
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2023-10,1130.0,134
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2023-11,1107.0,130
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2023-12,913.0,129
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-01,693.0,119
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-02,769.0,128
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-03,1225.0,136
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-04,1581.0,139
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-05,1766.0,136
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-06,1855.0,139
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-07,2295.0,143
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-08,2355.0,131
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-09,2236.0,125
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-10,2145.0,128
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-11,2127.0,111
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2024-12,1943.0,122
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2025-01,1358.0,126
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2025-02,1005.0,128
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2025-03,1065.0,138
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2025-04,1206.0,136
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2025-05,1231.0,147
+Uttar Pradesh,Hardoi,27.39491,80.13165,Potato,2025-06,1247.0,47
+Uttar Pradesh,Hardoi,27.39491,80.13165,Rice,2025-04,3157.0,97
+Uttar Pradesh,Hardoi,27.39491,80.13165,Rice,2025-05,3160.0,126
+Uttar Pradesh,Hardoi,27.39491,80.13165,Rice,2025-06,3173.0,23
+Uttar Pradesh,Hardoi,27.39491,80.13165,Tomato,2023-06,1767.0,88
+Uttar Pradesh,Hardoi,27.39491,80.13165,Tomato,2023-07,6997.0,107
+Uttar Pradesh,Hardoi,27.39491,80.13165,Tomato,2023-08,5840.0,3
+Uttar Pradesh,Hardoi,27.39491,80.13165,Tomato,2023-09,2646.0,4
+Uttar Pradesh,Hardoi,27.39491,80.13165,Tomato,2023-10,1418.0,3
+Uttar Pradesh,Hardoi,27.39491,80.13165,Tomato,2023-11,1585.0,1
+Uttar Pradesh,Hardoi,27.39491,80.13165,Wheat,2023-06,2257.0,105
+Uttar Pradesh,Hardoi,27.39491,80.13165,Wheat,2023-07,2228.0,128
+Uttar Pradesh,Hardoi,27.39491,80.13165,Wheat,2023-08,2272.0,126
+Uttar Pradesh,Hardoi,27.39491,80.13165,Wheat,2023-09,2310.0,115
+Uttar Pradesh,Hardoi,27.39491,80.13165,Wheat,2023-10,2325.0,117
+Uttar Pradesh,Hardoi,27.39491,80.13165,Wheat,2023-11,2411.0,102
+Uttar Pradesh,Hardoi,27.39491,80.13165,Wheat,2023-12,2443.0,118
+Uttar Pradesh,Hardoi,27.39491,80.13165,Wheat,2024-01,2482.0,119
+Uttar Pradesh,Hardoi,27.39491,80.13165,Wheat,2024-02,2508.0,24
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2023-06,1027.0,125
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2023-07,1324.0,147
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2023-08,1465.0,135
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2023-09,1778.0,134
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2023-10,2152.0,141
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2023-11,3460.0,126
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2023-12,2192.0,131
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-01,1679.0,123
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-02,1351.0,130
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-03,1649.0,130
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-04,1714.0,129
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-05,1495.0,138
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-06,1390.0,30
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-07,2888.0,118
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-08,3067.0,138
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-09,3778.0,135
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-10,3889.0,128
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-11,3842.0,116
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2024-12,3588.0,22
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2025-02,2040.0,188
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2025-03,2118.0,204
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2025-04,1302.0,177
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2025-05,1104.0,209
+Uttar Pradesh,Jhansi,25.45887,78.57994,Onion,2025-06,1165.0,54
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2023-06,1071.0,124
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2023-07,1247.0,148
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2023-08,1316.0,136
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2023-09,1256.0,134
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2023-10,1020.0,140
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2023-11,1104.0,128
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2023-12,957.0,130
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-01,838.0,122
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-02,838.0,130
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-03,1239.0,128
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-04,1637.0,129
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-05,1804.0,138
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-06,2047.0,138
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-07,2357.0,136
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-08,2434.0,141
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-09,2284.0,131
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-10,2224.0,126
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-11,2162.0,113
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2024-12,1918.0,129
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2025-01,1295.0,131
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2025-02,877.0,121
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2025-03,1131.0,122
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2025-04,1237.0,122
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2025-05,1244.0,140
+Uttar Pradesh,Jhansi,25.45887,78.57994,Potato,2025-06,1261.0,48
+Uttar Pradesh,Jhansi,25.45887,78.57994,Rice,2025-04,3523.0,21
+Uttar Pradesh,Jhansi,25.45887,78.57994,Rice,2025-05,3520.0,35
+Uttar Pradesh,Jhansi,25.45887,78.57994,Rice,2025-06,3548.0,6
+Uttar Pradesh,Jhansi,25.45887,78.57994,Tomato,2023-06,2086.0,124
+Uttar Pradesh,Jhansi,25.45887,78.57994,Tomato,2023-07,7650.0,146
+Uttar Pradesh,Jhansi,25.45887,78.57994,Tomato,2023-08,6242.0,14
+Uttar Pradesh,Jhansi,25.45887,78.57994,Tomato,2023-09,1575.0,11
+Uttar Pradesh,Jhansi,25.45887,78.57994,Tomato,2023-10,1166.0,14
+Uttar Pradesh,Jhansi,25.45887,78.57994,Tomato,2023-11,1605.0,4
+Uttar Pradesh,Jhansi,25.45887,78.57994,Wheat,2023-06,2214.0,106
+Uttar Pradesh,Jhansi,25.45887,78.57994,Wheat,2023-07,2204.0,119
+Uttar Pradesh,Jhansi,25.45887,78.57994,Wheat,2023-08,2335.0,116
+Uttar Pradesh,Jhansi,25.45887,78.57994,Wheat,2023-09,2376.0,100
+Uttar Pradesh,Jhansi,25.45887,78.57994,Wheat,2023-10,2392.0,95
+Uttar Pradesh,Jhansi,25.45887,78.57994,Wheat,2023-11,2430.0,68
+Uttar Pradesh,Jhansi,25.45887,78.57994,Wheat,2023-12,2396.0,60
+Uttar Pradesh,Jhansi,25.45887,78.57994,Wheat,2024-01,2395.0,31
+Uttar Pradesh,Jhansi,25.45887,78.57994,Wheat,2024-02,2466.0,6
